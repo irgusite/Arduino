@@ -3,6 +3,7 @@ LCD_h library for use with ea dips082-hn and  PCF 8574
 Initialises the connection and the lcd. Has simple commands to control the lcd
 Created by Philipp Schuler the 29.09.2014
 */
+
 #ifndef LCD_h
 #define LCD_h
 
